@@ -32,22 +32,8 @@ The dataset used in this project includes various customer attributes such as de
 
 ### 4. Model Evaluation
 - Measured performance using **Confusion matrix, Classification report, and PR-AUC**
+- The model with the best **recall** score was chosen to minimize false negatives and effectively identify potential churners
 
 ### 5. Deployment & Interpretation
 - Explained key insights from the model
 - Suggested business strategies based on predictions
-
-## Results & Insights
-
-### Key Findings
-
-- The model with the best **recall** score was chosen to minimize false negatives and effectively identify potential churners.
-- Older customers tend to have a higher churn rate, with age being one of the most influential factors.
-- Customers with lower account balances and those who own fewer products are more likely to churn, as these features also show moderate importance.
-- Inactive members and individuals with a low credit score exhibit a higher likelihood of churning, though these factors have less influence compared to age and balance.
-
-### Business Implications
-
-- Retention strategies should focus on **re-engaging inactive members** through personalized offers.
-- Encouraging customers to use multiple products may help reduce churn rates.
-- Special attention should be given to **high-risk customers (low balance & high age group)** through targeted retention campaigns.
