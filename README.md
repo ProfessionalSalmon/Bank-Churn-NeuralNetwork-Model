@@ -24,19 +24,14 @@ The dataset used in this project includes various customer attributes such as de
 - Handling missing values
 - Encoding categorical variables
 - Feature scaling
+- SMOTE Resampling
 
-### 2. Exploratory Data Analysis (EDA)
-- Understanding data distributions
-- Identifying correlations
-- Visualizing important features
-
-### 3. Model Selection & Training
-- Tried multiple machine learning models (e.g., Logistic Regression, Decision Trees, Random Forest, Neural Networks)
-- Tuned hyperparameters for better performance
+### 2. Neural Network Model Training
+- Assess Training and Validation Loss
+- Tune hyperparameters
 
 ### 4. Model Evaluation
-- Measured performance using **accuracy, precision, recall, F1-score, and AUC-ROC**
-- Compared different models to select the best one
+- Measured performance using **Confusion matrix, Classification report, and PR-AUC**
 
 ### 5. Deployment & Interpretation
 - Explained key insights from the model
