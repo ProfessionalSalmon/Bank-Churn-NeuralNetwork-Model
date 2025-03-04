@@ -1,4 +1,4 @@
-# Bank Churn Modeling
+# Bank Churn Prediction by Fully Connected Neural Network
 
 ## Overview
 This project focuses on predicting customer churn for a bank using machine learning techniques. The goal is to identify customers who are likely to leave the bank, allowing proactive customer retention strategies.
