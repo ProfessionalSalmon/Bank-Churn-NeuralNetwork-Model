@@ -32,3 +32,6 @@ The dataset used in this project includes:
 ### 🎀3. Model Evaluation
 - Measured performance using **Confusion matrix, Classification report, and PR-AUC**
 - The model with the best **recall** score was chosen to minimize false negatives and effectively identify potential churners
+
+![PR-AUC](metrics\PR-AUC.png)
+![feature-importance](metrics\feature-importance.png)
